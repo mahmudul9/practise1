@@ -1,2 +1,2 @@
 # hello
-## I practise github on command for first time
+## I'm practicing GitHub through Command for the first time
